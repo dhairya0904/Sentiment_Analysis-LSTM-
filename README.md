@@ -1,6 +1,6 @@
 #Sentiment Analysis using LSTM
 
-This repository contains the iPython notebook on sentiment analysis with LSTM's in Keras. Data is downloaded from keras inbuilt api to download data.
+This repository contains the iPython notebook on sentiment analysis with LSTM's in Keras. Data is downloaded from keras inbuilt api.
 
 #Requirments
 1. Numpy
